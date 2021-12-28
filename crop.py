@@ -69,4 +69,4 @@ for image in all_images:
             q = q+1
         
                 
-    
+    #s
